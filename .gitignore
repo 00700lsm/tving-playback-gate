@@ -1,0 +1,15 @@
+.gradle
+.jdk
+load-test/k6/results/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.idea
+*.iml
+.classpath
+.project
+.settings
+bin/
+out/
+.DS_Store
+*.log
+.env

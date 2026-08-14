@@ -1,0 +1,9 @@
+spring:
+  cache:
+    type: none
+  jpa:
+    hibernate:
+      ddl-auto: update
+  sql:
+    init:
+      mode: never

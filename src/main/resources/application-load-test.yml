@@ -1,0 +1,2 @@
+# 측정용 프로필. 최적화 없이 부하 테스트 회원만 추가한다.
+# 실행: --spring.profiles.active=local,load-test
